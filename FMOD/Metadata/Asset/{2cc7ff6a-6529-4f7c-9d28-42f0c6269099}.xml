@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="EncodableAsset" id="{fcd7027d-39ad-43e7-877a-0ad87f63e97d}">
+	<object class="EncodableAsset" id="{2cc7ff6a-6529-4f7c-9d28-42f0c6269099}">
 		<property name="assetPath">
-			<value>zTestAsset/</value>
+			<value>Dialogue/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{8972ab41-9771-4e76-89ba-5dafb782894b}</destination>
