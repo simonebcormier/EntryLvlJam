@@ -13,23 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="21f0744b-1f16-4c2d-be64-31d1e0d3206e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EntryLvlJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EntryLvlJam/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Art/2DAssets/Clock/Clock_with_numbers.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Art/2DAssets/Clock/Clock_with_numbers.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Art/2DAssets/Customer/Customer_01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Art/2DAssets/Customer/Customer_01.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Art/2DAssets/Customer/Customer_01_Sprite.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Art/2DAssets/Customer/Customer_01_Sprite.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Levels/Gameplay.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Gameplay.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/BP_MainGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/BP_MainGameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/BP_CuttingBoard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/BP_CuttingBoard.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/BP_Sprite.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/BP_Sprite.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/ENUM_IngTypes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/ENUM_IngTypes.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/ENUM_MealTypes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/ENUM_MealTypes.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/Sprite_Test.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_CustomerRecipe.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_CustomerRecipe.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_CustomerRecipeIngredient.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_CustomerRecipeIngredient.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_HUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_HUD.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_MainMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_MainMenu.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_Meal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_Meal.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_Test.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_Test.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +38,11 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;C/C++ Project.EntryLvlJam.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ Project.EntryLvlJam.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Lanscape&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;ToonShader&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -171,6 +154,8 @@
       <updated>1755120985175</updated>
       <workItem from="1755120986831" duration="4435000" />
       <workItem from="1756145125613" duration="7492000" />
+      <workItem from="1756399572431" duration="1628000" />
+      <workItem from="1756413899892" duration="436000" />
     </task>
     <servers />
   </component>
