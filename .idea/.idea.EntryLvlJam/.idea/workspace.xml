@@ -12,12 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21f0744b-1f16-4c2d-be64-31d1e0d3206e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudio.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudio.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudio.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudio.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudioEditor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudioEditor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudioEditor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudioEditor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EntryLvlJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EntryLvlJam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/Gameplay.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Gameplay.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/BP_MainGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/BP_MainGameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/BP_CuttingBoard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/BP_CuttingBoard.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/BP_Sprite.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/BP_Sprite.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/ENUM_IngTypes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/ENUM_IngTypes.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_HUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_HUD.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_Meal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_Meal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_Test.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_Test.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +33,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="31FXqIelMVJDrmAU6yFuEHCJRJ2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,7 +47,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Blocking-gym",
+    "git-widget-placeholder": "Lanscape",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -140,7 +143,10 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
-      <deployment type="dockerfile" />
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -152,6 +158,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755120985175</updated>
       <workItem from="1755120986831" duration="4435000" />
+      <workItem from="1756145125613" duration="7492000" />
     </task>
     <servers />
   </component>
