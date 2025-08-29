@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{79128d67-d914-4caf-95bf-55043942a224}">
+		<property name="assetPath">
+			<value>Dialogue/dx_character_happy_05.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.51022916666666662</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8972ab41-9771-4e76-89ba-5dafb782894b}</destination>
+		</relationship>
+	</object>
+</objects>

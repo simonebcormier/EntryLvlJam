@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{445ad100-3365-47b4-a49d-00d440153684}">
+		<property name="assetPath">
+			<value>Dialogue/dx_customer_sigh_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.2801458333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8972ab41-9771-4e76-89ba-5dafb782894b}</destination>
+		</relationship>
+	</object>
+</objects>
