@@ -11,7 +11,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21f0744b-1f16-4c2d-be64-31d1e0d3206e" name="Changes" comment="" />
+    <list default="true" id="21f0744b-1f16-4c2d-be64-31d1e0d3206e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EntryLvlJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EntryLvlJam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Art/3DAssets/Shack/SM_Shack.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Art/3DAssets/Shack/SM_Shack.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Art/Landscape/Materials/M_Landscape.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Art/Landscape/Materials/M_Landscape.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Art/Placeholder/Materials/MI_Countertop.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Art/Placeholder/Materials/MI_CuttingBoard.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Art/Placeholder/Materials/MI_Plate.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Art/Placeholder/Materials/MI_Plate.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Art/Placeholder/Materials/M_Solid.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Art/Placeholder/Materials/M_Wood.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Art/Placeholder/SM_CuttingBoard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Art/Placeholder/SM_CuttingBoard.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Art/Placeholder/Textures/Noise_011.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Art/Placeholder/Textures/T_Wood.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/BP_CuttingBoard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/BP_CuttingBoard.uasset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +37,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="cidr-memory-view://1" root0="FORCE_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://0" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -40,7 +53,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Fonts",
+    "git-widget-placeholder": "Materials",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
