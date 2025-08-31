@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{711bf924-1e2e-46f7-a84b-a5832428d750}">
+		<property name="assetPath">
+			<value>Ambience/AMBSea_OceanWaves_SD107Estefania_ZoomH5.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>135.14666666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8972ab41-9771-4e76-89ba-5dafb782894b}</destination>
+		</relationship>
+	</object>
+</objects>

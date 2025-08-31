@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{9020350d-3936-4a9c-bea3-49a71ce6e845}">
+		<property name="assetPath">
+			<value>Ambience/AMBCascade_HeavyCascade_EstefaniaBriones_ZoomH5.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>170.25341666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8972ab41-9771-4e76-89ba-5dafb782894b}</destination>
+		</relationship>
+	</object>
+</objects>
