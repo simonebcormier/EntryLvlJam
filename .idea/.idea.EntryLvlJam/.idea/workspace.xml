@@ -11,7 +11,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21f0744b-1f16-4c2d-be64-31d1e0d3206e" name="Changes" comment="" />
+    <list default="true" id="21f0744b-1f16-4c2d-be64-31d1e0d3206e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EntryLvlJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EntryLvlJam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Art/Shaders/ToonShader/PPI_OutlineShader.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Art/Shaders/ToonShader/PPI_OutlineShader.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IntroCutscene.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/IntroCutscene.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/Gameplay.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Gameplay.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/BP_MainGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/BP_MainGameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_MainMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_MainMenu.uasset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +31,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="cidr-memory-view://0" root0="FORCE_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://1" root0="FORCE_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://2" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
