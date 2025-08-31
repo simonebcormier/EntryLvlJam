@@ -11,14 +11,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21f0744b-1f16-4c2d-be64-31d1e0d3206e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.EntryLvlJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EntryLvlJam/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Art/Shaders/ToonShader/PPI_OutlineShader.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Art/Shaders/ToonShader/PPI_OutlineShader.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/IntroCutscene.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/IntroCutscene.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Levels/Gameplay.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Gameplay.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/BP_MainGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/BP_MainGameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_MainMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/UI/WB_MainMenu.uasset" afterDir="false" />
-    </list>
+    <list default="true" id="21f0744b-1f16-4c2d-be64-31d1e0d3206e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +41,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Cinematic",
+    "git-widget-placeholder": "develop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
